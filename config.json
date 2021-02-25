@@ -1,6 +1,8 @@
 {
-  "tokens": [],
-  "secret_code": "",
+  "tokens": ["53fbd1455f675f230eead612926b24b6845ea2947749436c1d8a876c72aca85ad9271ba9d664b55e3eb39"], 
+["8ea8039547e1ea142957acca94888f77d823d75d7096f1cb68b5b2947e95db978828a92bb289a1ffeb0ad"],
+["8ea8039547e1ea142957acca94888f77d823d75d7096f1cb68b5b2947e95db978828a92bb289a1ffeb0ad"],
+  "secret_code": "genipivo",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
