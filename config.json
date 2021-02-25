@@ -1,6 +1,8 @@
 {
-  "tokens": [],
-  "secret_code": "",
+  "tokens": ["d84c7d1d954307ac4da9bdb7a9bce95471b4650660620d16d283cb9dd80fd6542b602081c72a0b3df351f"],
+  ["4c38cfa63fc904bbab1abf3642c31c7b806f9f130bed7a626f5ee72a0f53c6122d1b88ff59fbc8b8cab34"]
+  ["5e84592ba363c51b1727a7994d856cbc5c99874f304abbe1f8edc9d9ef3eed67c7081dc6ecd2eab7d4d6"]
+  "secret_code": "b43y85vwc",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
